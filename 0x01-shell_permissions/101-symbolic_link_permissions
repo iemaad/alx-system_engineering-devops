@@ -1,3 +1,2 @@
 #!/bin/bash
-choxn -h vincent:staff_hello
-
+sudo chown vincent:staff hello
