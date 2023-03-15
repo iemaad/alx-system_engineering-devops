@@ -1,0 +1,2 @@
+#!/bin/bash
+echi $(('echo $PATH | grep -o ":/" | wc -l' + 1))
